@@ -8,4 +8,4 @@ I updated the Plugin @Help description which can also accessed in RPG Maker MZ. 
 You find a sample project in the 'TacticsMZ.zip'. Create a new RPG Maker MZ project and copy (overwrite) all files in to the new project folder. In addition, you find the sample project as [web browser game on itch.io]() .
 
 ## License
-This plugin is licensed under MIT - the same as the MV plugin. See also the license-md file. 
+This plugin is licensed under MIT - the same as the MV plugin. See also the [license.md](https://github.com/plokr/RPGMakerTacticSystem/blob/main/LICENSE) file. 
